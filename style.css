@@ -1,0 +1,35 @@
+html{
+  color-scheme: dark;
+}
+
+body{
+  font-family: 'verdana';
+  text-align:center;
+  
+
+}
+
+button{
+  padding: 20px;
+  margin: 10px 10px;
+  height: 100px;
+  width: 100px;
+  cursor:pointer;
+  border-radius:50%;
+  border: 4px solid #A4B8C0;
+  background-color:  #FFEFC3;
+  color: #D87F7F;
+  font-weight: bold;
+  font-size: 25px;
+  box-shadow: 10px 4px  #A4B8C0;
+  
+}
+
+button:hover{
+  cursor:pointer;
+  
+}
+
+img{
+  height: 400px;
+}
